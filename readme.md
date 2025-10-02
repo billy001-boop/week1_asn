@@ -1,6 +1,6 @@
 # 🌡️ Jac Temperature Converter
 
-This is a beginner-friendly **Jac program** that converts a temperature value from **Celsius (°C) to Fahrenheit (°F)**.
+This is a **Jac program** that converts a temperature value from **Celsius (°C) to Fahrenheit (°F)**.
 
 ---
 
